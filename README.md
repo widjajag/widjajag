@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Gaby:
-I am currently working on crime prediction models and machine learning applications in data analytics.<br><br>I’m looking to collaborate on data-driven projects involving predictive modeling, NLP, or bioinformatics.<br><br>I am looking for help with optimizing machine learning models and cloud deployment strategies.<br><br>I am currently learning advanced machine learning techniques, REST API integration, and cloud computing with Azure.<br><br>Ask me about data analysis, Python, R, SQL, and bioinformatics workflows.<br><br>Fun fact: I have experience working in both wet lab and computational research, bridging biology and data science!
+I am currently working on crime prediction models and machine learning applications in data analytics. I’m looking to collaborate on data-driven projects involving predictive modeling, NLP, or bioinformatics. I am looking for help with optimizing machine learning models and cloud deployment strategies. I am currently learning advanced machine learning techniques, REST API integration, and cloud computing with Azure. Ask me about data analysis, Python, R, SQL, and bioinformatics workflows. Fun fact: I have experience working in both wet lab and computational research, bridging biology and data science!
 
 
 ## 🌐 Socials:
